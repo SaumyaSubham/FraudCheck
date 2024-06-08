@@ -1,4 +1,4 @@
-# fraud_check
+# FraudCheck
 
 First of all, Welcome Everyone!
 
